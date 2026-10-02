@@ -817,10 +817,10 @@ Configurações de versões antigas do Hyprland podem não funcionar diretamente
 
 ```text
 OS            Arch Linux
-DE            KDE Plasma 6
+DE            KDE Plasma 6 ou GNOME
 WM            Hyprland 0.55+
 Display       Wayland
-DM            SDDM
+DM            SDDM ou GDM
 Terminal      Kitty
 Browser       Firefox
 Files         Dolphin
@@ -838,7 +838,7 @@ A configuração continua em desenvolvimento e pode receber alterações conform
 
 ## License
 
-Configuração destinada principalmente a uso pessoal e estudos.
+Configuração destinada tanto para uso pessoal e estudos.
 
 Pode ser utilizada como referência para outras configurações de Hyprland.
 
