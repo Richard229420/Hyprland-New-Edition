@@ -14,9 +14,9 @@ A configuração utiliza **Lua** para organizar os módulos principais e scripts
 | ------------------- | -------------- |
 | Sistema             | Arch Linux     |
 | Window Manager      | Hyprland 0.55+ |
-| Desktop Environment | KDE Plasma 6   |
+| Desktop Environment | KDE Plasma 6 ou GNOME  |
 | Display Server      | Wayland        |
-| Display Manager     | SDDM           |
+| Display Manager     | SDDM ou GDM          |
 | Terminal            | Kitty          |
 | Navegador           | Firefox        |
 | File Manager        | Dolphin        |
